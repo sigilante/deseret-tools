@@ -11,7 +11,7 @@ ipa2des = {
     'ʊ':'𐐋',    'j':'𐐏',     't':'𐐓',    'k':'𐐗',
     'θ':'𐐛',    'ʃ':'𐐟',     'm':'𐐣',    'ju':'𐐧',
     # below this line are the hacks
-    'ɹ':'𐐡',    'ɝ':'𐐆𐐡'
+    'ɹ':'𐐡',    'ɝ':'𐐊𐐡'
 }
 
 # Convert Deseret letter to IPA phoneme.
